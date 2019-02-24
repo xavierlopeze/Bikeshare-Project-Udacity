@@ -3,18 +3,18 @@ This project is the original work of Xavier López, it has been presented on Feb
 # Explore US Bikeshare Data using Python
 
 ### Description
-This project consists on developing a python program that is able to read data from US Bikeshares in the form of csv files and compute some basic analytical statistics.
+This project consists on developing a python program that is able to read data from US Bikeshares in the form of .csv files and compute some basic analytical statistics.
 
 The goal of this project has been to get familiar with the basic syntax of pandas and git.
 
 ### Files used
-To run this program is sufficient with a simple execution of the file bikeshare.py
+In order to run this program a simple execution of the file bikeshare.py is sufficient
 
 ```console
 ipython bikeshare.py
 ```
 
-Note that it is required to have the following csv files in the same folder as bikeshare.py:
+Note that it is required to have the following .csv files in the same folder as bikeshare.py:
 - chicago.csv
 - new_york_city.csv
 - washington.csv
