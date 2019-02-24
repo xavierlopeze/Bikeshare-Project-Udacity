@@ -1,11 +1,12 @@
 ### Date created
 This project has been created on 2/24/2019
 
-### Project Title
-Replace the Project Title
+# Explore US Bikeshare Data using Python
 
 ### Description
-Describe what your project is about and what it does
+This project consists on developing a python program that is able to read data from US Bikeshares in the form of csv files and compute some basic analytical statistics.
+
+The goal of this project has been to get familiar with the basic syntax of python and git.
 
 ### Files used
 Include the files used
