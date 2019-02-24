@@ -123,7 +123,7 @@ def load_data(city, time_filter, month, day):
 
     #Create a new column for the dataframe containing the day of the week
     day_of_week = []
-    for index, row in df.iterrows():#note for the corrector of the code: please let me know if there is an ELEGANT efficient way to do this calculation (maybe with a general expression), since im afraid there is and I am not aware of its existance
+    for index, row in df.iterrows():
         day_of_week.append( dt.date(row["start_year"], row["start_month"], row["start_day"]).weekday())
     df['day_of_week'] = day_of_week
 
